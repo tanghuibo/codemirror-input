@@ -1,0 +1,28 @@
+.el-cm-input .cm-editor {
+    border: 1px solid #DCDFE6;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.el-cm-input .cm-focused {
+    border-color: #409EFF;
+    outline: none !important;
+    outline: 0;
+
+}
+
+
+.el-cm-input .cm-scroller {
+    margin: 4px 12px 4px 14px;
+    overflow-x: hidden;
+}
+
+.el-cm-input .cm-line {
+    font-family: Arail !important;
+    font-size: 14px !important;
+}
+
+.el-cm-input .cm-selectionBackground {
+    top: 0 !important;
+    height: 26px !important;
+}

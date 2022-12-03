@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
 import './plugins/element.js'
-import './plugins/codemirror';
 
 Vue.config.productionTip = false
 
